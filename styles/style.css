@@ -1,0 +1,18 @@
+body {
+  font-family: 'Inter-Regular', Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  font-style: normal;
+}
+
+.header {
+
+}
+
+.container {
+  max-width: 1480px;
+}
+
+.footer {
+  padding: 140px 0 32px;
+}
