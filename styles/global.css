@@ -16,6 +16,8 @@ h6 {
 a {
   text-decoration: none;
   color: #fff;
+  cursor: pointer;
+  transition: color 0.3s ease;
 }
 
 img {
@@ -26,4 +28,10 @@ img {
 
 ul, ol {
   list-style: none;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
